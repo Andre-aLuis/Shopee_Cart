@@ -8,4 +8,5 @@ Criar um carrinho de compras da Shopee onde o armazene e calcule os valores dos 
 //->itens -> /service/item.js
 
 ✅ Adicionada a opção de agrupamento por categoria na listagem dos items
+
 ✅ Formatado os valores para a moeda brasileira
